@@ -9,7 +9,7 @@
 
 <body style="background-color: azure;">
 	<div align="center" class="header">
-		<h2 style="background-color: azure;font-family: georgia;color: darkblue;">TASKs MANAGEMENT</h2>
+		<h2 style="background-color: azure;font-family: georgia;color: darkblue;">TASKs MANAGEMENTs</h2>
 	</div>
 	<div align="center" class="rest">
 		<h1 style="background-color: azure;font-family: georgia;color: darkblue;">PROJECT TASK ASSIGNMENT</h1>
